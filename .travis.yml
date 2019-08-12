@@ -4,5 +4,3 @@ services:
 script:
  - docker buld -t jisidro/node .
  - docker images jisidro/node
- 
-   
