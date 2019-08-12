@@ -1,4 +1,4 @@
-sudo: requered
+sudo: required
 services:
  - docker
 script:
