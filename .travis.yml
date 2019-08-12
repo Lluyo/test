@@ -2,5 +2,5 @@ sudo: required
 services:
  - docker
 script:
- - docker buld -t jisidro/node .
+ - docker build -t jisidro/node .
  - docker images jisidro/node
